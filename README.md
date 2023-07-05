@@ -18,10 +18,10 @@
   ### Entre em contato nas redes sociais a baixo!
  
 <div> 
-  <a href=""><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = ""><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=Yahoo&logoColor=white" target="_blank"></a>
+  
+  <a href="https://www.instagram.com/kgrodrigorra/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.com/channels/1126223876846784573/1126223877601771602" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "https://mail.yahoo.com/d/folders/1?.intl=br&.lang=pt-BR&guce_referrer=aHR0cHM6Ly9tYWlsLnlhaG9vLmNvbS8&guce_referrer_sig=AQAAANaFGyFLWDTQCEh_B7LQ9DakI5qTx_68PUa5XdGS-zI05meZbWWQ1D1lYdiXSeXBAuY8X5o0IjuFxzLJbIlT_C0mblwCBRjw9kqOK8wPzM0svn4rlT7ABDOp4D6kgknAgxCQGSzT1_1ug6tkvknttnrnPjF7ppUU91r0N0-8CpgY"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=Yahoo&logoColor=white" target="_blank"></a>
   <a href="linkedin.com/in/rodrigo-assunção-0355ab275" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/RodrigoKRA/RodrigoKRA/blob/output/github-contribution-grid-snake.svg)
